@@ -1,0 +1,20 @@
+h1{
+    color: white;
+    background-color: lightgray;
+    font-family: arial;
+    font-size: 40px;
+    margin: 20px;
+    }
+  
+  p
+  {
+    color: purple;
+    background-color: lightblue;
+    font-family: arial;
+    font-size: 25px;
+    margin: 40px;
+  }
+  body
+  {
+    background-color: lightblue;
+  }
